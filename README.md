@@ -1,4 +1,4 @@
-# worksheet-1-8
+# worksheet-1-4
 orksheet 1 - welcome to R
 
 Welcome to the second part of the Bioinformatics class! 
